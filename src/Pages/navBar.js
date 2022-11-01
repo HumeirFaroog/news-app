@@ -3,10 +3,8 @@ import React from 'react'
 export const navBar = () => {
   return (
     <div className='navBar-app'>
-        <a> Fashion</a>
-        <a> football</a>
-        <a> Fashion</a>
-        <a> Fashion</a>
+        <h1><a> Fashion</a></h1>
+        <h1><a> Sports</a></h1>
     </div>
   )
 }
